@@ -23,14 +23,6 @@ Developed as part of **4th Semester Mobile Application Development Lab**.
 - Android Studio  
 - SQLite Database  
 
----
-
-## 📸 Screenshots
-
-![Home Screen](./images/home.png.jpeg)
-![Add Expense](./images/add.png.jpeg)  
-![View Expenses](./images/list.png.jpeg)  
-![Summary](./images/summary.png.jpeg)
 
 ---
 
@@ -41,3 +33,14 @@ To understand Android app development and implement real-world features like dat
 
 ## 👨‍💻 Developer
 **Gaurav Kevat**
+
+
+## 📸 Screenshots
+
+![Home Screen](./images/home.png.jpeg)
+![Add Expense](./images/add.png.jpeg)  
+![View Expenses](./images/list.png.jpeg)  
+![Summary](./images/summary.png.jpeg)
+
+
+
