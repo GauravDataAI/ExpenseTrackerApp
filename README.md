@@ -28,9 +28,9 @@ Developed as part of **4th Semester Mobile Application Development Lab**.
 ## 📸 Screenshots
 
 ![Home Screen](./images/home.png.jpeg)
-![Add Expense](./images/add.png)  
-![View Expenses](./images/list.png)  
-![Summary](./images/summary.png)
+![Add Expense](./images/add.png.jpeg)  
+![View Expenses](.images/list.png.jpeg)  
+![Summary](.images/summary.png.jpeg)
 
 ---
 
